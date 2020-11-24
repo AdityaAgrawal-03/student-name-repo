@@ -1,4 +1,1 @@
-Hi, i am aditya agrawal.
-this is my personal portfolio in making
-
-hello
+### Created a demo website to learn how to host on netlify and checking the deploy section.
